@@ -1,0 +1,14 @@
+body{
+  font-family: 'Hannotate SC',serif;
+  background-color: black;
+  text-align: center;
+}
+
+h1{
+  color: aqua;
+}
+
+.cocktail-form{
+  margin: 50px 0px;
+  padding: 20px;
+}

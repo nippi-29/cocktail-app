@@ -1,0 +1,71 @@
+body{
+  font-family: 'Hannotate SC',serif;
+  background-color: black;
+  text-align: center;
+}
+
+h1{
+  color: aqua;
+}
+
+h3{
+  color: aqua;
+}
+
+span{
+  color: red;
+}
+
+a{
+  text-decoration:none;
+}
+
+.cocktails{
+  color: pink;
+  margin: auto;
+}
+
+.cocktails-name{
+  border: 1px solid white;
+  background-color: red;
+}
+
+.cocktails-recipe{
+  border: 1px solid white;
+  background-color: red;
+}
+
+.cocktails-alc{
+  border: 1px solid white;
+  background-color: red;
+}
+
+.cocktail-name{
+  border: 1px solid white;
+  background-color: azure;
+}
+
+.cocktail-recipe{
+  border: 1px solid white;
+  background-color: azure;
+}
+
+.cocktail-alc{
+  border: 1px solid white;
+  background-color: azure;
+}
+
+.cocktail-view-link{
+  border: 1px solid white;
+  background-color: gray;
+}
+
+.view-link{
+  color: pink;
+  text-decoration: none;
+}
+
+.heart{
+  color: yellow;
+}
+
