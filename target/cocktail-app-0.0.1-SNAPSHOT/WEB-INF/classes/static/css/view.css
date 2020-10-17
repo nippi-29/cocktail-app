@@ -1,0 +1,29 @@
+body{
+  font-family: 'Hannotate SC',serif;
+  background-color: black;
+  text-align: center;
+}
+
+.cocktail-box{
+  margin: 50px auto;
+  height: 100vh;
+}
+
+.cocktail-find-box{
+  color: aqua;
+  margin: 0px 20px 50px 0px;
+  padding-bottom: 100px;
+}
+
+.cocktail-find-name{
+  color: fuchsia;
+}
+
+.cocktail-find-material{
+  color: fuchsia;
+  width: 300px;
+}
+
+.cocktail-find-recipe{
+  color: fuchsia;
+}
