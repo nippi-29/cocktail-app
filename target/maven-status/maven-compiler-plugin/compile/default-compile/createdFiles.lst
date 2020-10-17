@@ -1,1 +1,6 @@
+com/example/cocktailapp/CocktailRepository.class
 com/example/cocktailapp/CocktailService.class
+com/example/cocktailapp/Cocktail.class
+com/example/cocktailapp/MainController.class
+com/example/cocktailapp/Form.class
+com/example/cocktailapp/CocktailAppApplication.class
