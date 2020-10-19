@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar
+web: java -Dserver.port=$PORT -jar target/cocktail-app-0.0.1-SNAPSHOT.jar
